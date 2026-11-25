@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+surface.npy
+.venv/
